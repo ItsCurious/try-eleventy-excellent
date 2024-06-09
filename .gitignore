@@ -11,3 +11,7 @@ src/_includes/scripts
 
 # secret data
 .env
+
+# Mac
+.DS_Store
+Thumbs.db
